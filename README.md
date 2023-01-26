@@ -15,6 +15,10 @@ It's best to create an environment conda /anaconda
 
 This should pop up the browser and the `<filename>` should be displyed
 
+### Sample files1
 
+![alt text](https://github.com/KalyanSekhar7/streamlit_demo/blob/main/references/Screenshot%20from%202023-01-26%2012-43-58.png?raw=true)
 
+### sample files 2
 
+![alt text](https://github.com/KalyanSekhar7/streamlit_demo/blob/main/references/Screenshot%20from%202023-01-26%2012-45-21.png?raw=true)
