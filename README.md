@@ -11,7 +11,7 @@ It's best to create an environment conda /anaconda
 
 ### Use any of the file by typing 
 
-`streamlit run <filename>`
+`streamlit run <filename.py>`
 
 This should pop up the browser and the `<filename>` should be displyed
 
