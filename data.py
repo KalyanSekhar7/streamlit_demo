@@ -17,7 +17,7 @@ sample_dict = {
 
 # remember that the dictionary has to be like a table containing arrays
 
-df = pd.read_csv('/spam classifier/archive/Datasets/final_dataset.csv',
+df = pd.read_csv('references/final_dataset.csv',
                  encoding='cp1252')
 st.write("# Using Dataframe")
 st.dataframe(df.head())
